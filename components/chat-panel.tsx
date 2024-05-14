@@ -36,24 +36,24 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'Who are you',
+      subheading: 'and what features do you have?',
+      message: `Who are you and what features do you have?`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'Who is Delphium AI',
+      subheading: 'and what is your relationship with them?',
+      message: 'Who is Delphium AI and what is your relationship with them?'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
+      heading: 'Give me ideas',
+      subheading: 'on what topics to talk about with you.',
+      message: `Give me ideas on what topics to talk about with you.`
     },
     {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'Who should I contact',
+      subheading: `in case I have problems using this service?`,
+      message: `Who should I contact in case I have problems using this service?`
     }
   ]
 
